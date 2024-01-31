@@ -24,6 +24,12 @@
 ### Step 4: Three finger drag
 1. open "System Preferences"
 2. select "Accessibility"
+3. select "Zoom"
+4. enable "Use scroll gesture with modifier keys to zoom"
+
+### Step 5: Accessibility settings
+1. open "System Preferences"
+2. select "Accessibility"
 3. select "Pointer Control"
 4. select "Trackpad Options"
 5. enable "enable dragging" with "three finger drag"
@@ -121,3 +127,7 @@
 - Sublime Text
 - Davinci Resolve
 - iStat Menus
+- ...
+
+## Dock order preview
+...
