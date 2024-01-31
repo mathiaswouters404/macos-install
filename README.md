@@ -1,4 +1,8 @@
 # macos-install
+-----------------
+TEMP
+IDEA LINK: https://github.com/andrewconnell/osx-install
+-----------------
 
 ## Settings
 
