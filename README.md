@@ -101,6 +101,7 @@
 - Bitwarden
 - Spotify
 - Discord
+- Alfred
 - Browser:
     - Chrome
     - Firefox
@@ -119,7 +120,7 @@
 - Adobe Acrobat DC
 - draw.io
 - Clipboard Manager:
-   - CopyClip OR Paste
+   - CopyClip OR Paste OR Maccy
 - Window Manager:
    - Rectangle
 - Screenshot tool:
@@ -127,7 +128,18 @@
 - Sublime Text
 - Davinci Resolve
 - iStat Menus
+- AppCleaner
+- Hidden Bar
+- QuickShade
+- Onyx
+- Pure Paste
+- Today
+- AltTab
+- Latest
 - ...
 
 ## Dock order preview
+...
+
+## Change spotlight to Alfred
 ...
