@@ -12,7 +12,7 @@
 1. go to "System Preferences"
 2. go to "Trackpad"
 3. increase "tracking speed":
-   ![alt text](https://github.com/mathiaswouters404/macos-install/main/images/trackpad-speed.png?raw=true)
+   ![alt text](https://github.com/mathiaswouters404/macos-install/tree/main/images/trackpad-speed.png?raw=true)
 5. go to ""
 6. go to ""
 
