@@ -18,7 +18,7 @@
 1. open "System Preferences"
 2. select "Trackpad"
 3. increase "tracking speed":
-   - ![alt text](https://raw.githubusercontent.com/mathiaswouters404/macos-install/main/images/trackpad-speed.png)
+   - ![alt text](https://raw.githubusercontent.com/mathiaswouters404/macos-install/main/images/trackpad.png)
 5. enable "Tap to click"
 
 ### Step 4: Three finger drag
