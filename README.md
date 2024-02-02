@@ -99,7 +99,7 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 6. go to ""
 
 ## Installation apps and packages
-- Homebrew
+- Homebrew (Brew Cask)
 - iterm2 (+ Oh my Zsh)
 - Git
 - Bitwarden
