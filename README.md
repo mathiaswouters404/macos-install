@@ -18,6 +18,29 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 4. select "Applications"
 5. remove all the unnecessary apps
 
+### Step : Notifications settings
+1. Turn off notifications from all apps, except the important ones
+
+### Step :
+
+
+### Step :
+
+
+### Step :
+
+
+### Step :
+
+
+### Step :
+
+
+### Step :
+
+
+### Step :
+
 ### Step 3: Trackpad edits
 1. open "System Preferences"
 2. select "Trackpad"
