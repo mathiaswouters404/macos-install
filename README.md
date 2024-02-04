@@ -151,7 +151,6 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 - Sublime Text
 - Davinci Resolve
 - Hidden Bar
-- QuickShade
 - Onyx
 - Pure Paste
 - Today
