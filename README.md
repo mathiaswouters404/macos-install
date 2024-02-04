@@ -152,7 +152,6 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 - Davinci Resolve
 - Hidden Bar
 - AltTab
-- Latest
 - ...
 
 ## Dock order preview
