@@ -150,8 +150,6 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
    - Shottr
 - Sublime Text
 - Davinci Resolve
-- iStat Menus
-- AppCleaner
 - Hidden Bar
 - QuickShade
 - Onyx
