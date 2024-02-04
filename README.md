@@ -143,7 +143,7 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 - Adobe Acrobat DC
 - draw.io
 - Clipboard Manager:
-   - CopyClip OR Paste OR Maccy
+   - Maccy
 - Window Manager:
    - Rectangle
 - Screenshot tool:
