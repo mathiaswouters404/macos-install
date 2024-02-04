@@ -139,7 +139,6 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
     - Pycharm ??
 - Node.js
 - Docker Desktop
-- Android Studio
 - Office365
 - Adobe Acrobat DC
 - draw.io
