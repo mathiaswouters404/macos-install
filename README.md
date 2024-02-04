@@ -129,10 +129,7 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 - Spotify
 - Discord
 - Alfred
-- Browser:
-    - Chrome
-    - Firefox
-    - Brave
+- Google Chrome
 - VS Code
 - Postman
 - XCode
