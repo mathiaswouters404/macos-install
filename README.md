@@ -81,7 +81,7 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 9. go to "advanced"
 10. enable "Show all filename extensions"
 
-### Step 7:
+### Step 7 Change from zsh to bash:
 1. go to ""
 2. go to ""
 3. go to ""
