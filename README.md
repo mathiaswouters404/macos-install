@@ -122,8 +122,8 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 6. go to ""
 
 ## Installation apps and packages
-- Homebrew (Brew Cask)
-- iterm2 (+ Oh my Zsh)
+- Homebrew
+- iterm2 (+ Oh my Zsh + powerlevel10k)
 - Git
 - Bitwarden
 - Spotify
