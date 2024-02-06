@@ -122,37 +122,54 @@ IDEA LINK: https://github.com/andrewconnell/osx-install
 6. go to ""
 
 ## Installation apps and packages
+### System Utilities:
 - Homebrew
-- iterm2 (+ Oh my Zsh + powerlevel10k)
-- Git
-- Bitwarden
-- Spotify
-- Discord
 - Alfred
-- Google Chrome
-- VS Code
+- Rectangle (Window manager)
+- Maccy (Clipboard manager)
+- Shottr (Screenshot tool)
+- Be Focussed (Pomodore timer)
+- Amphetamine (Keep-awake app)
+- Hidden Bar (Menu bar)
+
+### IT / Programming:
+- iterm2 (+ Oh my Zsh + powerlevel10K)
+- Git
+- Node.js
 - Postman
-- XCode
+- Python
+- Visual Studio Code
 - Android Studio
 - Jetbrains Toolbox:
     - Intellij
     - Pycharm ??
-- Node.js
-- Docker Desktop
-- Office365
-- Adobe Acrobat DC
-- draw.io
-- Clipboard Manager:
-   - Maccy
-- Window Manager:
-   - Rectangle
-- Screenshot tool:
-   - Shottr
 - Sublime Text
+- Docker Desktop
+- draw.io
+- XCode
+
+### Productivity / Office:
+- Adobe Acrobat DC
+- Notion
+- Todoist
+- Trello
+- Microsoft Teams
+- Mac Office (Pages, Keynote, Numbers)
+- Office365
+
+### Media / Design:
 - Davinci Resolve
-- Hidden Bar
-- AltTab
-- ...
+- Figma
+- OBS Studio
+
+### Others:
+- Bitwarden
+- Google Chrome
+- Discord
+- Spotify
+- Surfshark
+- Logi Options +
+
 
 ## Dock order preview
 ...
